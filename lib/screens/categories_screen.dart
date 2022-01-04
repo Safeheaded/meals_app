@@ -3,6 +3,7 @@ import 'package:flutter_complete_guide/widgets/category_item.dart';
 import '../dummy_data.dart';
 
 class CategoriesScreen extends StatelessWidget {
+
   const CategoriesScreen({Key? key}) : super(key: key);
 
   @override
